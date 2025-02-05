@@ -4,4 +4,4 @@ de vente. Je l'ai réalisé ce projet lors d'une formation en langage de program
 
 Pour utiliser cette application, il faut d'abord importer le fichier de base de données intitule "gestionbar.sql" dans phpMyadmin ou l'altenative; 
 puis intégrer le dossier du programme dans un IDE compatible avec JAVA soit Netbeans ou IntelliJ, etc. Et enfin, le lancer.
-Ou tu peux rapidement l'utiliser en lancant le JAR file qui se trouve en /dist .
+Ou tu peux rapidement l'utiliser en lancant le JAR file qui se trouve en /dist ou le fichier bat qui se trouve au root du repertoire mais avant tout il faut avoir deja installer le jdk dans votre ordinateur.
